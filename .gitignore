@@ -9,6 +9,12 @@ desktop.ini
 *.sublime-project
 *.sublime-workspace
 
+# Python & Scripts
+.venv/
+venv/
+__pycache__/
+*.py
+
 # Logs & Temporary Files
 *.log
 npm-debug.log*
