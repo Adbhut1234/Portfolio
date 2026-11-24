@@ -4,7 +4,7 @@ Personal portfolio and software engineering showcase.
 
 🌐 **Live Site:** [https://adbhut1234.github.io/Portfolio/](https://adbhut1234.github.io/Portfolio/)
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](assets/preview.png)
 
 ## Tech Stack
 
